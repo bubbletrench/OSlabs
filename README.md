@@ -143,4 +143,39 @@ _Z9factoriali:
 
 # Лабораторная работа №2
 
-Посмотрите видео с установкой в файлах (installing_arch.mp4)
+Посмотрите видео с установкой в файлах (installing_arch.mp4).
+
+# Лабораторная работа №3(А). Вариант 5. В текстовых файлах (. t x t ) заменить одно слово на другое, из найденных файлов составить список, сохранить его в файл.
+
+1. Открываем консоль в Linux.
+
+<img width="736" height="484" alt="Screenshot 2026-05-16 203043" src="https://github.com/user-attachments/assets/ba3fe8c1-d5d9-48ee-99bc-8114a0015c09" />
+
+2. Создаем 4 файла для проверки скрипта.
+
+<img width="731" height="478" alt="Screenshot 2026-05-16 203304" src="https://github.com/user-attachments/assets/d1fa2c91-1118-41b0-b5a9-243a58f8584b" />
+
+3. Открываем самый лучший в мире редактор кода по мнению самых лучших людей (Vim) и записываем сам скрипт.
+
+<img width="689" height="489" alt="Screenshot 2026-05-16 205059" src="https://github.com/user-attachments/assets/fc462b9c-82bf-42a7-bc2e-29c857b7b6a6" />
+
+4. Делаем скрипт исполняемым через chmod +x lab3a.sh. Выполняем скрипт и проверяем.
+
+<img width="729" height="459" alt="Screenshot 2026-05-16 211223" src="https://github.com/user-attachments/assets/bc0319f0-843e-40c7-8b99-8227c5bb9460" />
+
+# Лабораторная работа №3(B). Вариант 5. В текстовых файлах (. t x t ) заменить одно слово на другое, из найденных файлов составить список, сохранить его в файл.
+
+1. Разрешаем выполнение скриптов для текущего юзера (на всякий пожарный). Редактируем файл в самом крутецки крутом редакторе кода всех времен и народов (Vim).
+
+<img width="733" height="47" alt="Screenshot 2026-05-16 212108" src="https://github.com/user-attachments/assets/5a3c1dfd-9826-43d8-945a-c0d6bda5569f" />
+
+
+<img width="871" height="337" alt="image" src="https://github.com/user-attachments/assets/4a75ee52-c5ef-4fe8-ba5c-fe3cd56b4e07" />
+
+2. Создаем 4 файла для проверки скрипта.
+
+<img width="648" height="83" alt="Screenshot 2026-05-16 212320" src="https://github.com/user-attachments/assets/d8958417-2eab-4c18-a1de-700007d2bf78" />
+
+3. Выполняем скрипт. Смотрим результат.
+
+<img width="538" height="155" alt="Screenshot 2026-05-16 212330" src="https://github.com/user-attachments/assets/6cdb56a3-2263-4030-bb64-aeb53d9d78d0" />
